@@ -1,2 +1,2 @@
 # Projects
-my own projects
+my projects
